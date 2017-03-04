@@ -23,3 +23,4 @@ For the POD HD 300 / 400:
 * Below, click on Browse and specify the directory that contains your (downloaded) Presets, Setlists or Bundles that you want to convert to your device or modify.
 * Now choose what you want to do with the files in the chosen directory. The settings are grouped in convert, translate or modify for a better overwiev. Apply everything you desire. For example, if you downloaded a POD HD 500 Preset and want to run in on your POD HD Desktop, checkmark the box Patch HD 500 Presets to Desktop (.h5e -> .hbe).
 * On the Bottom, Click Run.
+*
